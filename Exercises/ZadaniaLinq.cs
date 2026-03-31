@@ -426,6 +426,4 @@ public sealed class ZadaniaLinq
 
         return method;
     }
-    
-    // zmiana pod commita bo nie dziala
 }
